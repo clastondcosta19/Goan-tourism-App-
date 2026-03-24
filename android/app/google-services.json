@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "92591786945",
+    "project_id": "goatourism-d2586",
+    "storage_bucket": "goatourism-d2586.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92591786945:android:fbeeb43f87964d3cfafd40",
+        "android_client_info": {
+          "package_name": "com.example.goatourism"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZB13DqnjE8uBXY7N0x3ojkUpCujpZniI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
